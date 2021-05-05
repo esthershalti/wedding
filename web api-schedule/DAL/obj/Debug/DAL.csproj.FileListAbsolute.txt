@@ -1,0 +1,83 @@
+C:\יעל\פרויקט גמר\web api\WebApplication1\DAL\bin\Debug\DAL.dll.config
+C:\יעל\פרויקט גמר\web api\WebApplication1\DAL\bin\Debug\DAL.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\DAL\bin\Debug\DAL.pdb
+C:\יעל\פרויקט גמר\web api\WebApplication1\DAL\bin\Debug\EntityFramework.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\DAL\bin\Debug\EntityFramework.xml
+C:\יעל\פרויקט גמר\web api\WebApplication1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\יעל\פרויקט גמר\web api\WebApplication1\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\יעל\פרויקט גמר\web api\WebApplication1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\יעל\פרויקט גמר\web api\WebApplication1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\יעל\פרויקט גמר\web api\WebApplication1\DAL\obj\Debug\DAL.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\DAL\obj\Debug\DAL.pdb
+C:\Esther\פרויקט גמר\web api\WebApplication1\DAL\bin\Debug\DAL.dll.config
+C:\Esther\פרויקט גמר\web api\WebApplication1\DAL\bin\Debug\DAL.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\DAL\bin\Debug\DAL.pdb
+C:\Esther\פרויקט גמר\web api\WebApplication1\DAL\bin\Debug\EntityFramework.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\DAL\bin\Debug\EntityFramework.xml
+C:\Esther\פרויקט גמר\web api\WebApplication1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Esther\פרויקט גמר\web api\WebApplication1\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Esther\פרויקט גמר\web api\WebApplication1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Esther\פרויקט גמר\web api\WebApplication1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Esther\פרויקט גמר\web api\WebApplication1\DAL\obj\Debug\DAL.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\DAL\obj\Debug\DAL.pdb
+C:\Esther\פרויקט גמר\wedding\web api-schedule\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Esther\פרויקט גמר\wedding\web api-schedule\DAL\obj\Debug\DAL.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\DAL\obj\Debug\DAL.pdb
+C:\Esther\פרויקט גמר\wedding\web api-schedule\DAL\bin\Debug\DAL.dll.config
+C:\Esther\פרויקט גמר\wedding\web api-schedule\DAL\bin\Debug\DAL.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\DAL\bin\Debug\DAL.pdb
+C:\Esther\פרויקט גמר\wedding\web api-schedule\DAL\bin\Debug\EntityFramework.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\DAL\bin\Debug\EntityFramework.xml
+C:\Esther\פרויקט גמר\wedding\web api-schedule\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Esther\פרויקט גמר\wedding\web api-schedule\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\DAL\bin\Debug\DAL.dll.config
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\DAL\bin\Debug\DAL.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\DAL\bin\Debug\DAL.pdb
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\DAL\bin\Debug\EntityFramework.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\DAL\bin\Debug\EntityFramework.xml
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\DAL\obj\Debug\DAL.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\DAL\obj\Debug\DAL.pdb
+C:\Users\win10\Downloads\‏‏תיקיה חדשה (2)\web api-schedule\DAL\bin\Debug\DAL.dll.config
+C:\Users\win10\Downloads\‏‏תיקיה חדשה (2)\web api-schedule\DAL\bin\Debug\DAL.dll
+C:\Users\win10\Downloads\‏‏תיקיה חדשה (2)\web api-schedule\DAL\bin\Debug\DAL.pdb
+C:\Users\win10\Downloads\‏‏תיקיה חדשה (2)\web api-schedule\DAL\bin\Debug\EntityFramework.dll
+C:\Users\win10\Downloads\‏‏תיקיה חדשה (2)\web api-schedule\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\win10\Downloads\‏‏תיקיה חדשה (2)\web api-schedule\DAL\bin\Debug\EntityFramework.xml
+C:\Users\win10\Downloads\‏‏תיקיה חדשה (2)\web api-schedule\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\win10\Downloads\‏‏תיקיה חדשה (2)\web api-schedule\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\win10\Downloads\‏‏תיקיה חדשה (2)\web api-schedule\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\win10\Downloads\‏‏תיקיה חדשה (2)\web api-schedule\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\win10\Downloads\‏‏תיקיה חדשה (2)\web api-schedule\DAL\obj\Debug\DAL.dll
+C:\Users\win10\Downloads\‏‏תיקיה חדשה (2)\web api-schedule\DAL\obj\Debug\DAL.pdb
+C:\Users\win10\Downloads\פרויקט גמר 2021\web api-schedule\DAL\bin\Debug\DAL.dll.config
+C:\Users\win10\Downloads\פרויקט גמר 2021\web api-schedule\DAL\bin\Debug\DAL.dll
+C:\Users\win10\Downloads\פרויקט גמר 2021\web api-schedule\DAL\bin\Debug\DAL.pdb
+C:\Users\win10\Downloads\פרויקט גמר 2021\web api-schedule\DAL\bin\Debug\EntityFramework.dll
+C:\Users\win10\Downloads\פרויקט גמר 2021\web api-schedule\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\win10\Downloads\פרויקט גמר 2021\web api-schedule\DAL\bin\Debug\EntityFramework.xml
+C:\Users\win10\Downloads\פרויקט גמר 2021\web api-schedule\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\win10\Downloads\פרויקט גמר 2021\web api-schedule\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\win10\Downloads\פרויקט גמר 2021\web api-schedule\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\win10\Downloads\פרויקט גמר 2021\web api-schedule\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\win10\Downloads\פרויקט גמר 2021\web api-schedule\DAL\obj\Debug\DAL.dll
+C:\Users\win10\Downloads\פרויקט גמר 2021\web api-schedule\DAL\obj\Debug\DAL.pdb
+C:\Users\win10\Downloads\finalProject\web api-schedule\DAL\bin\Debug\DAL.dll.config
+C:\Users\win10\Downloads\finalProject\web api-schedule\DAL\bin\Debug\DAL.dll
+C:\Users\win10\Downloads\finalProject\web api-schedule\DAL\bin\Debug\DAL.pdb
+C:\Users\win10\Downloads\finalProject\web api-schedule\DAL\bin\Debug\EntityFramework.dll
+C:\Users\win10\Downloads\finalProject\web api-schedule\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\win10\Downloads\finalProject\web api-schedule\DAL\bin\Debug\EntityFramework.xml
+C:\Users\win10\Downloads\finalProject\web api-schedule\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\win10\Downloads\finalProject\web api-schedule\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\win10\Downloads\finalProject\web api-schedule\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\win10\Downloads\finalProject\web api-schedule\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\win10\Downloads\finalProject\web api-schedule\DAL\obj\Debug\DAL.dll
+C:\Users\win10\Downloads\finalProject\web api-schedule\DAL\obj\Debug\DAL.pdb

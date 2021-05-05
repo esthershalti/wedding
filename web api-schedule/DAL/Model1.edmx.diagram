@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="5568f9a082b8451691f1d464d603b133" Name="Diagram1">
+        <EntityTypeShape EntityType="projectDBModel.Business__tbl" Width="1.5" PointX="9.375" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="projectDBModel.Category__tbl" Width="1.5" PointX="11.5" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="projectDBModel.Events__tbl" Width="1.5" PointX="2.875" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="projectDBModel.Schedule_tbl" Width="1.5" PointX="5.125" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="projectDBModel.sysdiagrams" Width="1.5" PointX="1" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="projectDBModel.Users__tbl" Width="1.5" PointX="0.75" PointY="0.5" IsExpanded="true" />
+        <AssociationConnector Association="projectDBModel.FK__Business___Categ__33D4B598" ManuallyRouted="false" />
+        <AssociationConnector Association="projectDBModel.FK__Schedule___Busin__412EB0B6" ManuallyRouted="false" />
+        <AssociationConnector Association="projectDBModel.FK__Events__t__UserC__3C69FB99" ManuallyRouted="false" />
+        <AssociationConnector Association="projectDBModel.FK__Schedule___Event__403A8C7D" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="projectDBModel.BusinessOpeningHours_tbl" Width="1.5" PointX="11.625" PointY="4.125" />
+        <AssociationConnector Association="projectDBModel.FK__BusinessO__Busin__160F4887" ManuallyRouted="true" >
+          <ConnectorPoint PointX="10.875" PointY="2.9922900390625" />
+          <ConnectorPoint PointX="13.256770833333334" PointY="2.9922900390625" />
+          <ConnectorPoint PointX="13.256770833333334" PointY="3.7512057128906249" />
+          <ConnectorPoint PointX="13.09375" PointY="3.7512057128906249" />
+          <ConnectorPoint PointX="13.09375" PointY="4.125" />
+        </AssociationConnector>
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
